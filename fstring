@@ -1,0 +1,3 @@
+# fstring
+
+print(f"this is %s and his rollnumber is {input()}" %(input("your name:")))
